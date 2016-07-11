@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/GitDemo.iml" filepath="$PROJECT_DIR$/GitDemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/timepickerlibrary/timepickerlibrary.iml" filepath="$PROJECT_DIR$/timepickerlibrary/timepickerlibrary.iml" />
     </modules>
   </component>
 </project>
