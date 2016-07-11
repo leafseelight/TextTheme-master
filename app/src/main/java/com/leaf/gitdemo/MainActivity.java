@@ -15,6 +15,10 @@ public class MainActivity extends AppCompatActivity {
 
     }
 
+    /**
+     * 弹出对话框
+     * @param view
+     */
     public void buttonClick(View view){
         AlertDialog.Builder builder = new AlertDialog.Builder(this);
         builder.setTitle("对话框")
