@@ -1,4 +1,5 @@
 <resources>
-    <string name="app_name">GitDemo</string>
+    <string name="app_name">在街上店铺</string>
     <string name="label_hello">世界，你好！</string>
+    <string name="label_fans">默认-粉丝管理</string>
 </resources>
