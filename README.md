@@ -4,7 +4,7 @@
 ## 2016-07-18 实现多行业，不同文本的解决方案
 查看效果图：
 
-<img src="https://github.com/leafseelight/GitDemo/blob/master/project-res/effect-picture.jpg" height="800" width="480" />
+<img src="https://github.com/leafseelight/GitDemo/blob/master/project-res/effect-picture.jpg" height="530" width="320" />
 <!--
 ![image](https://github.com/leafseelight/GitDemo/blob/master/project-res/effect-picture.jpg)
 -->
