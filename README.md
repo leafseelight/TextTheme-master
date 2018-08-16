@@ -9,7 +9,8 @@
 ![image](https://github.com/leafseelight/GitDemo/blob/master/project-res/effect-picture.jpg)
 -->
 主要实现的代码：
-``` Java
+
+``` java
     String languageToLoad = "gg"; // your language,you can define a new locale,default is ""null string
     Locale locale = new Locale(languageToLoad);
     Locale.setDefault(locale);
